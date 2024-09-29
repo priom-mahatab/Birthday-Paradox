@@ -26,7 +26,11 @@ The script simulates the birthdays of people in groups of varying sizes and calc
 
 The script prints the following table:
 
-`n Probability of at least one match 5 0.03 10 0.12 15 0.25 ...`
+`n    Probability of at least one match 
+5     0.03 
+10    0.12 
+15    0.25 
+...`
 
 Where `n` represents the group size and the probability is the estimated chance of two people sharing a birthday.
 

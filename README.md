@@ -40,7 +40,9 @@ python birthday_paradox_simulation.py
 
 If you're using Python 3 specifically, the command might need to be:
 
-```python3 birthday_paradox_simulation.py```
+```bash
+python3 birthday_paradox_simulation.py
+```
 
 ### Dependencies
 
